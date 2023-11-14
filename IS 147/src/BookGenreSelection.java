@@ -351,7 +351,7 @@ public class BookGenreSelection {
                 if ("Yes".equalsIgnoreCase(userAnswer11)) {
                     System.out.println("\n1. Haunting Adeline by H.D. Carlton");
                     System.out.println("   ~ Adeline Reilly, a young author who has recently moved into her family's home in Washington state following the death of her grandmother. \nShe is stalked by Zade Meadows, the leader of an underground organization, Z, which aims to end human trafficking.");
-                    System.out.println("\n2. A touch of Darkness by Scarlett St. Clair");
+                    System.out.println("\n2. A Touch of Darkness by Scarlett St. Clair");
                     System.out.println("   ~ After a chance encounter with Hades, Persephone finds herself in a contract with the God of the Dead and the terms are impossible: \nPersephone must create life in the Underworld or lose her freedom forever. The bet does more than expose \nPersephone's failure as a goddess, however.");
                     System.out.println("\n3. Twisted Love by Ana Huang");
                     System.out.println("   ~ He has a heart of ice…but for her, he'd burn the world. Alex Volkov is a devil blessed with the face of an angel and cursed with a past he can't escape. \nDriven by a tragedy that has haunted him for most of his life, his ruthless \npursuits for success and vengeance leave little room for matters of the heart.");
