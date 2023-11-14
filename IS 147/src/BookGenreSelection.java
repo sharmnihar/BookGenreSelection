@@ -364,7 +364,7 @@ public class BookGenreSelection {
                 break;
             default:
                 System.out.println("\nNo recommendations for the invalid choice.");
-                break;
+                break;jhfuyvj
         }
     }
 }
