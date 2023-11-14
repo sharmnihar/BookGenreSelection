@@ -341,7 +341,7 @@ public class BookGenreSelection {
                 break;
             case "Smut":
                 System.out.println("1. Haunting Adeline by H.D. Carlton");
-                System.out.println("2. A touch of Darkness by Scarlett St. Clair");
+                System.out.println("2. A Touch of Darkness by Scarlett St. Clair");
                 System.out.println("3. Twisted Love by Ana Huang");
                 System.out.println("4. Twisted Hate by Ana Huang");
                 System.out.println("5. Twisted Game by Ana Huang");
